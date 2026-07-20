@@ -16,10 +16,10 @@ A curated collection of machine learning, deep learning, explainable AI, graph l
 ```text
 .
 ├── README.md
-├── neural-decoding/
+├── brain_modelling/
 │   ├── README.md
-│   └── neural-decoding-comparison.ipynb
-├── stroke-risk-prediction/
+│   └── Comparison_of_Neural_Decoding_Methods.ipynb
+├── ml_final_proj/
 │   ├── README.md
 │   └── stroke-risk-prediction.ipynb
 ├── gcn-node-classification/
@@ -32,6 +32,4 @@ A curated collection of machine learning, deep learning, explainable AI, graph l
 
 ## Running the Projects
 
-The notebooks were developed in Google Colab and can also be run locally in Jupyter. Each project README contains its own notebook and Colab links.
-
-Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` in the Colab links after uploading the repository to GitHub.
+The notebooks were developed in Google Colab and can also be run locally in Jupyter. Each project README contains its own notebook.
